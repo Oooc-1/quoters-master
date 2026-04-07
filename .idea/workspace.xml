@@ -19,6 +19,11 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="D:\Program Files\Git\cmd\git.exe" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branch1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -57,7 +62,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="QuotersIncorporatedApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -94,6 +99,7 @@
       <workItem from="1775121146716" duration="9000" />
       <workItem from="1775121169803" duration="909000" />
       <workItem from="1775185200633" duration="566000" />
+      <workItem from="1775563410717" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1775185597828</created>
@@ -108,6 +114,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
@@ -121,10 +140,10 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="0" y="108" key="CommitChangelistDialog2/0.0.1707.1019@0.0.1707.1019" timestamp="1775185594597" />
-    <state x="247" y="244" key="FileChooserDialogImpl" timestamp="1775121821486">
+    <state x="247" y="244" key="FileChooserDialogImpl" timestamp="1775563818330">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="247" y="244" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1775121821486" />
+    <state x="247" y="244" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1775563818330" />
     <state width="1663" height="664" key="GridCell.Tab.0.bottom" timestamp="1774787923583">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
@@ -157,13 +176,21 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state width="1663" height="664" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1774787923583" />
-    <state x="-82" y="166" key="SettingsEditor" timestamp="1775121456201">
+    <state x="0" y="53" key="SettingsEditor" timestamp="1775563520184">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="-82" y="166" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1775121456201" />
-    <state x="550" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1775185239296">
+    <state x="0" y="53" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1775563520184" />
+    <state x="101" y="215" key="Vcs.Push.Dialog.v2" timestamp="1775564419890">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="550" y="338" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1775185239296" />
+    <state x="101" y="215" key="Vcs.Push.Dialog.v2/0.0.1707.1019@0.0.1707.1019" timestamp="1775564419890" />
+    <state x="550" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1775563462646">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="550" y="338" key="com.intellij.ide.util.TipDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1775563462646" />
+    <state x="479" y="210" key="git4idea.merge.GitPullDialog" timestamp="1775564764283">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="479" y="210" key="git4idea.merge.GitPullDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1775564764283" />
   </component>
 </project>
